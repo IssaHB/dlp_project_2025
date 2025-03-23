@@ -6,7 +6,7 @@ The code in this repository is largely based on the paper ["Galaxy Morphological
 
 We re-produced the results for five different classification models used by the original authors of the paper, including:
 
-1. Support Vector Machine (SVM) with Zernike moments (ZMs)
+1. Support Vector Machine (SVM) with Zernike Moments (ZMs)
 2. 1D-Convolutional Neural Network (1D-CNN) with ZMs
 3. 2D-CNN with Vision Transformer (ViT) and original images
 4. ResNet50 with ViT and original images
