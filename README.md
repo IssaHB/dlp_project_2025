@@ -14,11 +14,11 @@ We re-produced the results for five different classification models used by the 
 
 The SVM and 1D-CNN models utilized Zernike moments (ZMs) extracted from the images, while the 2D-CNN, ResNet5, and VGG16 with Vision Transformer (ViT) models were designed based on the original images.
 
-We also extended these results for three more classifficaiton models designed based on the original images, including:
+We also extended these results to include:
 
-1. AlexNet
-2. ZFNet
-3. Dense Convolutional Networks (DenseNet)
+1. Improvements on the models used by Ghaderi et al.
+2. Performance of the models on a modified dataset
+3. Classification of "odd" galaxies (e.g., mergers, irregulars, lenses, etc.)
 
 ## Data
 The data files are accessible from [here](https://drive.google.com/drive/folders/1pwNk-8VJ-a_jUn84DyPYRYmhYSmki1dh) and include two categories:
