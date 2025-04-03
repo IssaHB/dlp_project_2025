@@ -32,6 +32,14 @@ Each category contains two folders:
 - ZMs: This folder contains Zernike Moments (ZMs) data sets in CSV file format.
 
 ## Task Allocation
-- Galaxy Classifier:
-  - ss
-- Odd Classifier:
+### Florine
+- A
+- B
+  
+### Isa
+- A
+- B
+
+### Madalena
+- A
+- B
