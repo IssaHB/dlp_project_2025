@@ -30,3 +30,9 @@ Each category contains two folders:
 
 - images: This folder includes the original images for galaxy-nongalaxy and cropped images for galaxy classifiers.
 - ZMs: This folder contains Zernike Moments (ZMs) data sets in CSV file format.
+
+## Task Allocation
+- Galaxy Classifier:
+- - s
+  - ss
+- Odd Classifier:
