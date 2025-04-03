@@ -1,6 +1,6 @@
 # Machine Learning for Morphological Galaxy Classification
 
-The code in this repository is largely based on the paper ["Galaxy Morphological Classification with Zernike Moments and Machine Learning Approaches"](https://doi.org/10.3847/1538-4365/ada8ab) by Ghaderi et al. (2025) and [their code](https://github.com/hmddev1/machine_learning_for_morphological_galaxy_classification?tab=readme-ov-file). It was modified and extended by [Florine H. J. Koch](https://github.com/florine680), [Isa Chousein Basia](https://github.com/IssaHB), and [Madalena Nunes de Lima](https://github.com/mlima3) as part of a group project for the "Deep Learning in Physics" graduate-level course offered by the University of Groningen, The Netherlands. 
+The code in this repository is largely based on the paper ["Galaxy Morphological Classification with Zernike Moments and Machine Learning Approaches"](https://doi.org/10.3847/1538-4365/ada8ab) by Ghaderi et al. (2025) and [their code](https://github.com/hmddev1/machine_learning_for_morphological_galaxy_classification?tab=readme-ov-file). It was modified and extended by [Florine H. J. Koch](https://github.com/florine680), [Isa Chousein Basia](https://github.com/IssaHB), and [Madalena Lima](https://github.com/mlima3) as part of a group project for the "Deep Learning in Physics" graduate-level course offered by the University of Groningen, The Netherlands. 
 
 ## Overview
 
