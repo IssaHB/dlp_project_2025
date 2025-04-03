@@ -33,6 +33,5 @@ Each category contains two folders:
 
 ## Task Allocation
 - Galaxy Classifier:
-- - s
   - ss
 - Odd Classifier:
