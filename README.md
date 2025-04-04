@@ -35,11 +35,13 @@ Each category contains two folders:
 ### Florine
 - A
 - B
+- Worked on reproducing the results of Ghaderi et al. (2025).
   
 ### Isa
 - Prepared a dataset for odd galaxies (e.g., mergers, irregulars, etc.) and trained Model III of Ghaderi et al. (2025) on this dataset.
 - Computed the Zernike Moments (ZMs) from the original image dataset used by Ghaderi et al. (2025) for 45 different Zernike Polynomial (ZP) orders and trained their Model I (Galaxy/Non-Galaxy Classifier) on these ZMs to illustrate the relationship between accuracy and ZP order.
+- Worked on reproducing the results of Ghaderi et al. (2025) and cleaning/organizing the notebooks.
 
 ### Madalena
 - Created a modified dataset by adjusting the voting threshold and trained all five models on this dataset.
-- Reproduced paper results.
+- Worked on reproducing the results of Ghaderi et al. (2025).
