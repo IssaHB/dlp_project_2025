@@ -33,9 +33,9 @@ Each category contains two folders:
 
 ## Task Allocation
 ### Florine
-- A
-- B
-- Worked on reproducing the results of Ghaderi et al. (2025).
+- Worked on improving the 5 models of the Galaxy/non-galaxy classifier code.
+- Integrated an additional model into the Galaxy/Non-Galaxy classifier notebook to compare its performance against ResNet50.
+- Executed and reproduced the original results from the paper Ghaderi et al. (2025), including results from the improved models, over 10 iterations for the Galaxy/Non-Galaxy Classifiers.
   
 ### Isa
 - Prepared a dataset for odd galaxies (e.g., mergers, irregulars, etc.) and trained Model III of Ghaderi et al. (2025) on this dataset.
