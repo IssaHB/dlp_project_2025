@@ -30,18 +30,3 @@ Each category contains two folders:
 
 - images: This folder includes the original images for galaxy-nongalaxy and cropped images for galaxy classifiers.
 - ZMs: This folder contains Zernike Moments (ZMs) data sets in CSV file format.
-
-## Task Allocation
-### Florine
-- Worked on improving the 5 models of the Galaxy/non-galaxy classifier code.
-- Integrated an additional model into the Galaxy/Non-Galaxy classifier notebook to compare its performance against ResNet50.
-- Executed and reproduced the original results from the paper Ghaderi et al. (2025), including results from the improved models, over 10 iterations for the Galaxy/Non-Galaxy Classifiers.
-  
-### Isa
-- Prepared a dataset for odd galaxies (e.g., mergers, irregulars, etc.) and trained Model III of Ghaderi et al. (2025) on this dataset.
-- Computed the Zernike Moments (ZMs) from the original image dataset used by Ghaderi et al. (2025) for 45 different Zernike Polynomial (ZP) orders and trained their Model I (Galaxy/Non-Galaxy Classifier) on these ZMs to illustrate the relationship between accuracy and ZP order.
-- Worked on reproducing the results of Ghaderi et al. (2025) and cleaning/organizing the notebooks.
-
-### Madalena
-- Created a modified dataset by adjusting the voting threshold and trained all five models on this dataset.
-- Worked on reproducing the results of Ghaderi et al. (2025).
